@@ -9,5 +9,6 @@ key	what it does
 * `ctrl-b, "`	aktuelles panel horizontal splitten
 * `ctrl-b, x`	akteulles panel schließen, löschen
 * `ctrl-b, <Richtungstaste>	wechselt das panel nach richrungstaste
+* `ctrl-b ]` Scollen aktivieren
 
 
